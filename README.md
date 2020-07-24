@@ -12,11 +12,11 @@ Document learning new Data Science Libraries and provide "cheat-sheets" for the 
 
 ### Requires
 
-* jupyter notebook/lab https://jupyter.org/install
+* jupyter notebook/lab  https://jupyter.org/install
 
 ### More info
 
-For now, matplotlib, pandas and numpy Python libraries are covered.
+For now, matplotlib, pandas and numpy libraries are covered.
 
 
 ### Future improvements
