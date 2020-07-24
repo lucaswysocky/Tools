@@ -13,7 +13,6 @@ Document learning new Data Science Libraries and provide "cheat-sheets" for the 
 ### Requires
 
 * jupyter notebook/lab https://jupyter.org/install
-* python 3
 
 ### More info
 
