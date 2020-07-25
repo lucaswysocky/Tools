@@ -2,7 +2,7 @@
 
 ### Project description
 
-A repostory with a few guides to popular Python Data Science libraries written as Jupyter Notebooks.
+A repository with a few guides to popular Python Data Science libraries written as Jupyter Notebooks.
 
 
 ### Objective
